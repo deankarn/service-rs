@@ -1,0 +1,12 @@
+[package]
+authors = ["Dean Karn <dean.karn@gmail.com>"]
+name = "service"
+version = "0.1.0"
+
+[dependencies]
+cadence = "0.13.1"
+chan-signal = "0.3.1"
+clap = "2.30.0"
+slog = "2.1.1"
+slog-json = "2.2.0"
+spmc = "0.2.2"
